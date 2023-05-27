@@ -107,7 +107,7 @@
   <h3>Create a line plot showing the top model score for the three (or more) training runs during the project.</h3>
  <details>
   
-  <img alt="model train score" src="https://user-images.githubusercontent.com/foo/bar/baz.png">
+  <img alt="model train score" src="https://github.com/AmitRanjan235/Bike-Sharing-Demand-Prediction-udacity-AWSMLEScholarship/blob/main/project/img/model_test_score.png">
 </details>
 
   <h3>Create a line plot showing the top Kaggle score for the three (or more) prediction submissions during the project.</h3>
