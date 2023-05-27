@@ -65,4 +65,4 @@ pip install jupyterlab
 Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## License
-[License](LICENSE.txt)
+[License](https://github.com/AmitRanjan235/Bike-Sharing-Demand-Prediction-udacity-AWSMLEScholarship/blob/main/LICENSE)
