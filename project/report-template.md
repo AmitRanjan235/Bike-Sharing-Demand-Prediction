@@ -108,7 +108,7 @@
   <img src="[project/img/model_train_score.png](https://github.com/AmitRanjan235/Bike-Sharing-Demand-Prediction/blob/8150adbfc631af7518897d818d2b37f8308da773/project/img/model_test_score.png)" alt="Model Training Score">
 
   <h3>Create a line plot showing the top Kaggle score for the three (or more) prediction submissions during the project.</h3>
-  <img src="project/img/model_test_score.png" alt="Model Test Score">
+  <img src="[project/img/model_test_score.png](https://github.com/AmitRanjan235/Bike-Sharing-Demand-Prediction/blob/fb751d85b35c323ca96286e2e392c471aacd7e94/project/img/model_test_score.png)" alt="Model Test Score">
 
   <h2>Summary</h2>
   <p>Overall, through the iterative process of initial training, exploratory data analysis, feature creation, and hyperparameter tuning, the model's performance significantly improved. The addition of new features enhanced the model's understanding of temporal patterns and captured interactions between variables, leading to improved predictions. Hyperparameter tuning further optimized the model's performance, resulting in lower Kaggle scores. Given more time, additional improvements could be made through feature engineering, exploring different models or ensemble methods, and further hyperparameter optimization. The presented results highlight the importance of thorough analysis, feature engineering, and hyperparameter tuning in building successful predictive models.</p>
