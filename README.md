@@ -61,7 +61,7 @@ pip install jupyterlab
 ## References
 [Official Documentation](https://auto.gluon.ai/stable/tutorials/tabular/tabular-indepth.html)
 
-##Contributing
+## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## License
