@@ -105,7 +105,7 @@
   </table>
 
   <h3>Create a line plot showing the top model score for the three (or more) training runs during the project.</h3>
-  <img src="project/img/model_train_score.png" alt="Model Training Score">
+  <img src="[project/img/model_train_score.png](https://github.com/AmitRanjan235/Bike-Sharing-Demand-Prediction/blob/8150adbfc631af7518897d818d2b37f8308da773/project/img/model_test_score.png)" alt="Model Training Score">
 
   <h3>Create a line plot showing the top Kaggle score for the three (or more) prediction submissions during the project.</h3>
   <img src="project/img/model_test_score.png" alt="Model Test Score">
