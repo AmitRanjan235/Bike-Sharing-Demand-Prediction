@@ -9,7 +9,7 @@ Students will create a Kaggle account if they do not already have one, download 
 
 After they complete the first workflow, they will iterate on the process by trying to improve their score. This will be accomplished by adding more features to the dataset and tuning some of the hyperparameters available with AutoGluon.
 
-Finally they will submit all their work and write a report detailing which methods provided the best score improvement and why. A template of the report can be found [here](report-template.md).
+Finally they will submit all their work and write a report detailing which methods provided the best score improvement and why. A template of the report can be found [here](https://github.com/AmitRanjan235/Bike-Sharing-Demand-Prediction-udacity-AWSMLEScholarship/blob/main/project/report.md).
 
 To meet specifications, the project will require at least these files:
 * Jupyter notebook with code run to completion
