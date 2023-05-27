@@ -64,9 +64,13 @@
     <li>Advanced hyperparameter tuning: Employing more sophisticated hyperparameter optimization techniques such as Bayesian optimization or genetic algorithms to find even better hyperparameter configurations.</li>
     <li>Error analysis: Analyzing model errors, understanding the patterns of misclassifications or predictions, and refining the models based on these insights.</li>
   </ul>
-
+<div>
+<div>
   <h3>Create a table with the models you ran, the hyperparameters modified, and the Kaggle score.</h3>
   <table>
+  <caption>
+    Kaggle Score
+  </caption>
     <tr>
       <th>Model</th>
       <th>HPO1</th>
@@ -103,6 +107,55 @@
       <td>0.49301</td>
     </tr>
   </table>
+  </div>
+
+
+
+<div>
+  <table>
+   <caption>
+    Validation RMSE Score
+  </caption>
+    <tr>
+      <th>Model</th>
+      <th>HPO1</th>
+      <th>HPO2</th>
+      <th>HPO3</th>
+      <th>Score</th>
+    </tr>
+    <tr>
+      <td>Initial Model</td>
+      <td>Default values</td>
+      <td>Default values</td>
+      <td>Default values</td>
+      <td>52.711828</td>
+    </tr>
+    <tr>
+      <td>Add Features Model</td>
+      <td>Default values</td>
+      <td>Default values</td>
+      <td>Default values</td>
+      <td>30.357975</td>
+    </tr>
+    <tr>
+      <td>HPO Model</td>
+      <td>GBM: gbm_options</td>
+      <td>RF: rf_options</td>
+      <td>NN: nn_options</td>
+      <td>34.824982</td>
+    </tr>
+    <tr>
+      <td>HPO1 Model</td>
+      <td>GBM</td>
+      <td>RF</td>
+      <td>XGB</td>
+      <td>34.898059</td>
+    </tr>
+  </table>
+  </div>
+
+  </div>
+
 
   <h3>Create a line plot showing the top model score for the three (or more) training runs during the project.</h3>
  
