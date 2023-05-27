@@ -57,5 +57,12 @@ pip install jupyterlab
 6. Tune at least 3 different hyperparameters from AutoGluon and resubmit predictions to rank higher on Kaggle.
 7. Write up a report on how improvements (or not) were made by either creating additional features or tuning hyperparameters, and why you think one or the other is the best approach to invest more time in.
 
+
+## References
+[Official Documentation](https://auto.gluon.ai/stable/tutorials/tabular/tabular-indepth.html)
+
+##Contributing
+Contributions are welcome! Please fork the repository and submit a pull request.
+
 ## License
 [License](LICENSE.txt)
