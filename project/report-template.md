@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Report: Predict Bike Sharing Demand with AutoGluon Solution</title>
+   <h1>Report: Predict Bike Sharing Demand with AutoGluon Solution</h1>
 </head>
 <body>
-  <h1>Report: Predict Bike Sharing Demand with AutoGluon Solution</h1>
+ 
   <h3>Amit Ranjan</h3>
 
   <h2>Initial Training</h2>
